@@ -5,23 +5,23 @@ Step by step to create an Analytics service
 
 ---
 
-> **Step 1**Go to Mobile Analytics page from Console
+> **Step 1:** Go to Mobile Analytics page from Console
 ![0_aws_management_console](https://cloud.githubusercontent.com/assets/22315139/24347072/b7330600-1309-11e7-9cf6-c53b113ba9d4.png)
-** Step 2
+**Step 2** 
 ![01_aws_management_console](https://cloud.githubusercontent.com/assets/22315139/24347152/f107ab2e-1309-11e7-8166-fccf461d0023.png)
-** Or go to Mobile Analytics page from Service
+**(Option) Or go to Mobile Analytics page from Service**
 ![01_aws_service](https://cloud.githubusercontent.com/assets/22315139/24347153/f12c0884-1309-11e7-8698-51a1935c0849.png)
 
 ---
 
 * Create an app
-** Step 3
+**Step 3**
 ![2_create_an_app](https://cloud.githubusercontent.com/assets/22315139/24347154/f1450b7c-1309-11e7-9122-f0d102d08de7.png)
 
 ---
 
 * Create Identity Pool
-** Step 4
+** Step 4 **
 ![3_manage_federated_identities](https://cloud.githubusercontent.com/assets/22315139/24347155/f146144a-1309-11e7-9e5f-f501e3eb572e.png)
 ** Step 5
 ![4_create_new_identity_pool](https://cloud.githubusercontent.com/assets/22315139/24347156/f1492748-1309-11e7-80c9-58a7dc3547c5.png)
