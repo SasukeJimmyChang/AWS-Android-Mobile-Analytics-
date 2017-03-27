@@ -19,9 +19,9 @@ Step by step to create an Analytics service
 
 ---
 
-**Step 4: Create Identity Pool**
+> **Step 4: Create Identity Pool**
 ![3_manage_federated_identities](https://cloud.githubusercontent.com/assets/22315139/24347155/f146144a-1309-11e7-9e5f-f501e3eb572e.png)
-**Step 5**
+> **Step 5**
 ![4_create_new_identity_pool](https://cloud.githubusercontent.com/assets/22315139/24347156/f1492748-1309-11e7-80c9-58a7dc3547c5.png)
 **Step 6**
 ![5_create_new_identity_pool](https://cloud.githubusercontent.com/assets/22315139/24347157/f14ae150-1309-11e7-8eb5-aadadb2221e8.png)
@@ -33,8 +33,7 @@ Step by step to create an Analytics service
 
 ---
 
-**Step 8 : Select cognito identity pool to associate with your app**
-   Following this page to build your code
+**Step 8 : Select cognito identity pool to associate with your app, following this page to build your code**
 ![8_select_cognito_identity_pool_to_associate_with_your_app](https://cloud.githubusercontent.com/assets/22315139/24347308/778fb86c-130a-11e7-99e8-1700ee5c183d.png)
 
 ---
