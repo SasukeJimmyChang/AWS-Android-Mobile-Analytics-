@@ -1,7 +1,7 @@
 # AWS-Android-Mobile-Analytics-
 Step by step to create an Analytics service
 
-h1. Android Mobile Analytics - step by step
+## Android Mobile Analytics - step by step
 
 ---
 
@@ -43,7 +43,7 @@ h1. Android Mobile Analytics - step by step
 
 ---
 
-h2. How to put custom event?
+### How to put custom event?
 ** Following this page title:"Record Custom Event":http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/analytics.html
 !12_record_custom_event.png!
 
