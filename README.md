@@ -28,20 +28,19 @@ Step by step to create an Analytics service
 
 ---
 
-** Step 7: Integrate with IAM**
+**Step 7: Integrate with IAM**
 ![6_integrates_with_iam](https://cloud.githubusercontent.com/assets/22315139/24347158/f14d0b24-1309-11e7-953e-0e5c2862ef76.png)
 
 ---
 
-* 
-** Step 8 : Select cognito identity pool to associate with your app**
+**Step 8 : Select cognito identity pool to associate with your app**
    Following this page to build your code
 ![8_select_cognito_identity_pool_to_associate_with_your_app](https://cloud.githubusercontent.com/assets/22315139/24347308/778fb86c-130a-11e7-99e8-1700ee5c183d.png)
 
 ---
 
 ### How to put custom event?
-** Following this page title:"Record Custom Event":http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/analytics.html**
+**Following this page title:"Record Custom Event":http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/analytics.html**
 ![12_record_custom_event](https://cloud.githubusercontent.com/assets/22315139/24347159/f1559ba4-1309-11e7-8213-653b45b0d69f.png)
 
 ---
