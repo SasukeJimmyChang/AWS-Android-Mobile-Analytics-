@@ -5,8 +5,8 @@ Step by step to create an Analytics service
 
 ---
 
-* Go to Mobile Analytics page from Console
-** Step 1
+> Go to Mobile Analytics page from Console
+> Step 1
 ![0_aws_management_console](https://cloud.githubusercontent.com/assets/22315139/24347072/b7330600-1309-11e7-9cf6-c53b113ba9d4.png)
 ** Step 2
 ![01_aws_management_console](https://cloud.githubusercontent.com/assets/22315139/24347152/f107ab2e-1309-11e7-8166-fccf461d0023.png)
