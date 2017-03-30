@@ -39,7 +39,7 @@ Step by step to create an Analytics service
 ---
 
 ### How to put custom event?
-> **Following this page title:"Record Custom Event":http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/analytics.html**
+> **[Following this page title:"Record Custom Event](http://docs.aws.amazon.com/mobile/sdkforandroid/developerguide/analytics.html)**
 ![12_record_custom_event](https://cloud.githubusercontent.com/assets/22315139/24347159/f1559ba4-1309-11e7-8213-653b45b0d69f.png)
 
 ---
